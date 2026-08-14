@@ -55,6 +55,8 @@ I enjoy turning ideas into practical products, exploring emerging technologies, 
 
 ### 🧠 VentureForge AI
 
+**Kaggle × Google Competition Project**
+
 **AI-Powered Multi-Agent Venture Advisory Platform**
 
 A multi-agent AI platform designed to help founders evaluate and develop startup ideas through a virtual board of specialized AI agents.
@@ -74,11 +76,11 @@ The platform analyzes ventures across **market opportunity, competition, finance
 
 `Python` `FastAPI` `Gemini AI` `Multi-Agent AI`
 
-[View Repository →](https://github.com/e0-qr/ventureforge-ai)
-
 ---
 
 ### 🗺️ خُطاك — Khatak
+
+**Tuwaiq Academy Project**
 
 **AI-Powered Arabic Travel Planning Platform**
 
@@ -92,9 +94,11 @@ The goal is to transform trip planning into a dynamic experience that creates re
 
 ### 🧠 Zainah LifeOS AI
 
-**Personal AI-Powered Productivity & Life Management System**
+**Personal Project**
 
-An AI-powered personal operating system designed to bring **goals, learning, planning, productivity, and personal development** into one intelligent dashboard.
+**AI-Powered Productivity & Life Management System**
+
+A personal AI-powered operating system designed to bring **goals, learning, planning, productivity, and personal development** into one intelligent dashboard.
 
 The system focuses on AI-driven recommendations, personal planning, progress tracking, and intelligent daily insights.
 
@@ -104,7 +108,9 @@ The system focuses on AI-driven recommendations, personal planning, progress tra
 
 ### 🥐 Bakery Management & E-Commerce Platform
 
-A web platform developed as a **graduation project** for a bakery business, combining product management, customer-facing pages, and an online ordering experience.
+**University Project**
+
+A web platform developed as a university project for a bakery business, combining product management, customer-facing pages, and an online ordering experience.
 
 `PHP` `Laravel` `MySQL` `HTML` `CSS`
 
@@ -131,17 +137,6 @@ A web platform developed as a **graduation project** for a bakery business, comb
 * Participate in hackathons and technical competitions
 * Build technology that solves real-world problems
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=e0-qr&show_icons=true&hide_border=true&theme=transparent" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e0-qr&layout=compact&hide_border=true&theme=transparent" height="170"/>
-
-</div>
 
 ---
 
