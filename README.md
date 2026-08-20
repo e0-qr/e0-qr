@@ -11,11 +11,6 @@
 <a href="mailto:zynhalamry5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p>
-<a href="https://ventureforge-ai-two.vercel.app/"><img src="https://img.shields.io/badge/VentureForge_AI-Live_Demo-2E6A57?style=flat-square"/></a>
-<a href="https://rusookh.netlify.app/"><img src="https://img.shields.io/badge/%D8%B1%D8%B3%D9%88%D8%AE-Live_Demo-2E6A57?style=flat-square"/></a>
-</p>
-
 </div>
 
 ---
