@@ -101,6 +101,7 @@ A virtual board of **10 specialised AI agents** that evaluates a startup idea an
 - **Red team analysis** — attacks the idea's weaknesses rather than validating it
 - **Investor readiness scoring** across five dimensions
 - **Bilingual output** (Arabic / English) with cached translations
+https://ventureforge-ai-two.vercel.app/
 
 </details>
 
