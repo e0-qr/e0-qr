@@ -7,8 +7,8 @@
 </a>
 
 <p>
-<a href="https://ventureforge-ai-two.vercel.app/"><img src="https://img.shields.io/badge/VentureForge_AI-Live_Demo-2E6A57?style=flat-square"/></a>
-<a href="https://rusookh.netlify.app/"><img src="https://img.shields.io/badge/%D8%B1%D8%B3%D9%88%D8%AE-Live_Demo-2E6A57?style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/zainh1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:zynhalamry5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 </div>
@@ -195,6 +195,17 @@ Goals, learning, planning and progress tracking in one dashboard, with AI-driven
 `Next.js` `TypeScript` `Tailwind CSS` `Supabase` `AI`
 
 > Personal project — not publicly released.
+
+---
+
+## 📈 GitHub
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats-amber-iota-13.vercel.app/api?username=e0-qr&show_icons=true&hide_border=true&hide=issues&title_color=2E6A57&icon_color=2E6A57&text_color=808080&bg_color=00000000&cache_seconds=86400" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats-amber-iota-13.vercel.app/api/top-langs/?username=e0-qr&layout=compact&hide_border=true&langs_count=8&title_color=2E6A57&text_color=808080&bg_color=00000000&cache_seconds=86400" alt="Top languages" />
+
+</div>
 
 ---
 
