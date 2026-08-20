@@ -11,6 +11,11 @@
 <a href="mailto:zynhalamry5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<p>
+<a href="https://ventureforge-ai-two.vercel.app/"><img src="https://img.shields.io/badge/VentureForge_AI-Live_Demo-2E6A57?style=flat-square"/></a>
+<a href="https://rusookh.netlify.app/"><img src="https://img.shields.io/badge/%D8%B1%D8%B3%D9%88%D8%AE-Live_Demo-2E6A57?style=flat-square"/></a>
+</p>
+
 </div>
 
 ---
@@ -18,8 +23,8 @@
 Final-year Computer Science student working in **AI application development, data analysis, and web development**.
 I combine academic study with hands-on practice through hackathons, technical competitions, and complete end-to-end projects, alongside field experience from a professional co-op placement.
 
-🏆 **1st place out of 70+ teams** — Zero to MVP Hackathon, Google Developer Groups · Qassim University
-📊 **23 professional certifications** — Google Cloud, Kaggle × Google, IBM SkillsBuild, Cisco, MCIT
+🏆 **1st place out of 70+ teams** — Zero to MVP Hackathon, Google Developer Groups · Qassim University<br>
+📊 **23 professional certifications** — Google Cloud, Kaggle × Google, IBM SkillsBuild, Cisco, MCIT<br>
 🤝 **471 verified volunteer hours** — National Center for Non-Profit Sector
 
 ---
@@ -202,8 +207,8 @@ Goals, learning, planning and progress tracking in one dashboard, with AI-driven
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=e0-qr&show_icons=true&hide_border=true&title_color=2E6A57&icon_color=2E6A57&text_color=333&bg_color=ffffff" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e0-qr&layout=compact&hide_border=true&title_color=2E6A57&text_color=333&bg_color=ffffff" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=e0-qr&show_icons=true&hide_border=true&hide=issues&title_color=2E6A57&icon_color=2E6A57&text_color=808080&bg_color=00000000&cache_seconds=86400" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e0-qr&layout=compact&hide_border=true&langs_count=8&title_color=2E6A57&text_color=808080&bg_color=00000000&cache_seconds=86400" alt="Top languages" />
 
 </div>
 
@@ -211,10 +216,10 @@ Goals, learning, planning and progress tracking in one dashboard, with AI-driven
 
 ## 💼 Experience
 
-**Co-op Trainee** — Namirah General Hospital, Makkah Healthcare Cluster · Jan–Jun 2026
+**Co-op Trainee** — Namirah General Hospital, Makkah Healthcare Cluster · Jan–Jun 2026<br>
 Managed scheduling and referrals for 50+ patients in the CareWare hospital information system, and built a weekly Excel/Power BI report tracking department KPIs.
 
-**Head of Public Relations & Media Committee** — Tuwaiq Club, Al-Baha University · Jun 2026 – Present
+**Head of Public Relations & Media Committee** — Tuwaiq Club, Al-Baha University · Jun 2026 – Present<br>
 Lead a 30+ member committee: assign design work, review and approve output, and coordinate with other committees.
 
 ---
