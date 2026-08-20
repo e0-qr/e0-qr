@@ -11,6 +11,11 @@
 <a href="mailto:zynhalamry5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<p>
+<a href="https://ventureforge-ai-two.vercel.app/"><img src="https://img.shields.io/badge/VentureForge_AI-Live_Demo-2E6A57?style=flat-square"/></a>
+<a href="https://rusookh.netlify.app/"><img src="https://img.shields.io/badge/%D8%B1%D8%B3%D9%88%D8%AE-Live_Demo-2E6A57?style=flat-square"/></a>
+</p>
+
 </div>
 
 ---
@@ -101,7 +106,6 @@ A virtual board of **10 specialised AI agents** that evaluates a startup idea an
 - **Red team analysis** — attacks the idea's weaknesses rather than validating it
 - **Investor readiness scoring** across five dimensions
 - **Bilingual output** (Arabic / English) with cached translations
-https://ventureforge-ai-two.vercel.app/
 
 </details>
 
@@ -115,6 +119,8 @@ https://ventureforge-ai-two.vercel.app/
 - Async throughout with `httpx.AsyncClient`; typed request/response models via Pydantic
 
 </details>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2E6A57?style=for-the-badge)](https://ventureforge-ai-two.vercel.app/)
 
 `Python` `FastAPI` `Pydantic` `httpx` `SQLite` `Gemini API` `Multi-Agent AI`
 
@@ -142,6 +148,8 @@ Students finish memorising, then lose it — because there is no review system t
 
 Submitted to the Eastern Province Quran Memorization Society competition. Designed, built and deployed end to end.
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2E6A57?style=for-the-badge)](https://rusookh.netlify.app/)
+
 `HTML` `CSS` `JavaScript` `Netlify`
 
 ---
@@ -153,6 +161,8 @@ Submitted to the Eastern Province Quran Memorization Society competition. Design
 Storefront, session-based cart, checkout, and an admin panel for managing products — built over five related tables with foreign keys.
 
 **Security:** prepared statements (PDO) against SQL injection, and server-side price recalculation so totals can't be tampered with from the browser.
+
+> Runs locally — PHP projects need a PHP host. See setup instructions in the repository.
 
 `PHP` `SQLite` `PDO` `JavaScript` `HTML` `CSS`
 
@@ -193,6 +203,17 @@ Goals, learning, planning and progress tracking in one dashboard, with AI-driven
 
 ---
 
+## 📈 GitHub
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=e0-qr&show_icons=true&hide_border=true&title_color=2E6A57&icon_color=2E6A57&text_color=333&bg_color=ffffff" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e0-qr&layout=compact&hide_border=true&title_color=2E6A57&text_color=333&bg_color=ffffff" />
+
+</div>
+
+---
+
 ## 💼 Experience
 
 **Co-op Trainee** — Namirah General Hospital, Makkah Healthcare Cluster · Jan–Jun 2026
@@ -203,14 +224,6 @@ Lead a 30+ member committee: assign design work, review and approve output, and 
 
 ---
 
-## 📈 GitHub
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=e0-qr&show_icons=true&hide_border=true&title_color=2E6A57&icon_color=2E6A57&text_color=333&bg_color=ffffff" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e0-qr&layout=compact&hide_border=true&title_color=2E6A57&text_color=333&bg_color=ffffff" />
-
-</div>
 <div align="center">
 
 ### Building ideas into technology.
