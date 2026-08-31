@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Zainah 👋
+# Hi, I'm Zainah Al-amri
 
 <a href="https://github.com/e0-qr">
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&duration=3000&pause=1200&color=2E6A57&center=true&vCenter=true&width=520&lines=Computer+Science+Student;AI+Developer;Data+Analysis+%26+Web+Development;Building+Arabic-first+products" alt="Typing SVG" />
